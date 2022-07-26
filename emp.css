@@ -1,0 +1,13 @@
+.Head{
+    border-width: 500px;
+    
+    background-color: #2a6592;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+
+}
+.fom{
+    border-radius: 25px;
+}
